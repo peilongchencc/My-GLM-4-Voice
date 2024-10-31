@@ -4,7 +4,7 @@ ubuntu 系统下 [GLM-4-Voice](https://github.com/THUDM/GLM-4-Voice) 部署经�
 
 - [My-GLM-4-Voice](#my-glm-4-voice)
   - [笔者配置:](#笔者配置)
-  - [程序运行:](#程序运行)
+  - [环境配置:](#环境配置)
     - [代码拉取:](#代码拉取)
     - [创建/激活虚拟环境:](#创建激活虚拟环境)
     - [安装依赖项(很耗时):](#安装依赖项很耗时)
@@ -26,7 +26,7 @@ ubuntu 系统下 [GLM-4-Voice](https://github.com/THUDM/GLM-4-Voice) 部署经�
 | Ubuntu 22.04  | A100-PCIE-40GB * 1 | 12.2         | 18745MiB    |
 
 
-## 程序运行:
+## 环境配置:
 
 ### 代码拉取:
 
