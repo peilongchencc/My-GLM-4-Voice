@@ -31,7 +31,7 @@ ubuntu 系统下 [GLM-4-Voice](https://github.com/THUDM/GLM-4-Voice) 部署经�
 ### 代码拉取:
 
 ```bash
-git clone --recurse-submodules https://github.com/THUDM/GLM-4-Voice
+git clone git@github.com:THUDM/GLM-4-Voice.git
 cd GLM-4-Voice
 ```
 
