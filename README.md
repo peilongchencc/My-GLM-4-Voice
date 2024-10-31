@@ -57,9 +57,11 @@ GLM-4-Voice中`requirements.txt`指定的torch版本为 `torch 2.3.0`，已知 `
 
 pytorch官方github相关issue可查看[这里](https://github.com/pytorch/pytorch/issues/121834)。
 
-解决方案为去除版本号，让pip自动查找符合依赖的版本:
+解决方案为去除`requirements.txt`中`torch`的版本号，让pip自动查找符合依赖的版本。例如:
 
 ```txt
+wget==3.2
+WeTextProcessing==1.0.3
 torch
 torchaudio
 ```
